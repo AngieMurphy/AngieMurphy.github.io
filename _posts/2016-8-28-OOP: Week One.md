@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OOP : Week One
+title: OOP Week One
 ---
 
 ##What did you do this past week?
