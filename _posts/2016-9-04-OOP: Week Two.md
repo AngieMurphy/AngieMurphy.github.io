@@ -14,7 +14,7 @@ This week was the first normal week of classes! Overall, I feel about 'medium' o
 
 ## What's in your way?
 
-Learning new things quickly and not getting intimidated by what I don't know or haven't used. For instance, Docker, Travis CI, C++, gaps in my knowledge about 'make'. Occassionally I will get frustrated when I struggle learning something but I think staying calm with these new experiences will allow me to learn more from them. :)
+Learning new things quickly and not getting intimidated by what I don't know or haven't used. For instance, Docker, Travis CI, C++, gaps in my knowledge about 'make'. Occassionally I will get frustrated when I struggle with learning something but I think staying calm with these new experiences and just soaking it all in will allow me to learn more from them and prepare me more for difficult situations in the future. :)
 
 A specific issue currently is efficiently tracking down errors in my make file and learning to work with Docker. 
 
