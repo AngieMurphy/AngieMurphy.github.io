@@ -6,7 +6,9 @@ title: OOP Week Two
 ## What did you do this past week?
 
 This week was the first normal week of classes! Overall, I feel about 'medium' on my progress level. I kept up with the readings for OOP and felt prepared for our quizzes, but as far as progress goes on the assignment, I feel a bit meh. I'm not behind and I'm not in panic mode by any means, but I'm not as far as I wanted to be by today. 
+
   I typically don't procrastinate but I got sick at the beginning of this week and got set back some due to being fatigued when I got home. Thankfully though, I made some progress with setup due to the really helpful overview we had in class on Wednesday for the steps we need to take to get up and running. 
+  
   I'm thrilled about going over try catch exceptions in class on Friday. I haven't used these much but they seem incredibly useful for testing purposes and for an issue I've been struggling with at work. 
   I appreciated going over different ways to cache information in our programs on Monday. In general, the way we approach learning about programming or design decisions in class is appealing me. Professor Downing has a way of categorizing ideas, such as 'these are kinds of caches which exist' or 'here are ways that functions can communicate with each other' that really sticks with me. 
 
