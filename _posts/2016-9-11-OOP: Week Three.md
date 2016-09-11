@@ -22,10 +22,12 @@ Next week I will focus on both projects I'll have. I'd like to start the next pr
 My overall experience in the class this week was positive, despite the stress I had outside of it. At times, the pacing can be a bit quick in terms of going over new topics and answering the quiz questions, but at the same time, it is much easier to follow if you've done the related reading. 
 
 ## Tip of the Week
-So, this isn't a tip for development exactly, but there is an event coming up I'd like fellow game developers and aspiring game developers to know about! I attended Austin Game Dev Beer Night last month and it was pretty fun. If you are interested and 21+ I recommend it; it is a great way to connect to fellow game developers in the Austin community!
+So, this isn't a tip for development exactly, but there a few events coming up I'd like fellow game developers and aspiring game developers to know about! For those interested in VR is the September VR Austin Event sponsored by Oculus!
+
+[VR Austin](https://www.facebook.com/events/278236499222639/)
+
+
+And if you are 21+, there is an event coming up at Mister Tramps. I attended Austin Game Dev Beer Night last month and it was pretty fun. If you are interested and 21+ I recommend it; it is a great way to connect to fellow game developers in the Austin community!
 
 [Austin Game Dev Beer Night](https://www.facebook.com/events/1594397960856067/)
 
-Another cool event that is coming up even sooner for game developers or those interested in VR is the September VR Austin Event sponsored by Oculus!
-
-[VR Austin](https://www.facebook.com/events/278236499222639/)
