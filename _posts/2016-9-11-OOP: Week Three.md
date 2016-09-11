@@ -22,7 +22,7 @@ Next week I will focus on both projects I'll have. I'd like to start the next pr
 My overall experience in the class this week was positive, despite the stress I had outside of it. At times, the pacing can be a bit quick in terms of going over new topics and answering the quiz questions, but at the same time, it is much easier to follow if you've done the related reading. 
 
 ## Tip of the Week
-So, this isn't a tip for development exactly, but there a few events coming up I'd like fellow game developers and aspiring game developers to know about! For those interested in VR is the September VR Austin Event sponsored by Oculus!
+So, this isn't a tip for development exactly, but there a few events coming up I'd like fellow game developers and aspiring game developers to know about! For those interested in VR there is the September VR Austin Event sponsored by Oculus!
 
 [VR Austin](https://www.facebook.com/events/278236499222639/)
 
