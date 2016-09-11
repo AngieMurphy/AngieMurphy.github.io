@@ -15,7 +15,7 @@ As I mentioned before, I need to read up on and practice writing code with point
 
 ## What will you do next week?
 
-Next week I will focus on both projects I'll have. I'd like to start the next project in OOP no later than Tuesday (after reading it over on Monday). I also want to stay on top of the readings for this class and take some time to practices with pointers. 
+Next week I will focus on both projects I'll have. I'd like to start the next project in OOP no later than Tuesday (after reading it over on Monday). I also want to stay on top of the readings for this class and take some time to practice with pointers. 
 
 My overall experience in the class this week was positive, despite the stress I had outside of it. At times, the pacing can be a bit quick in terms of going over new topics and answering the quiz questions, but at the same time, it is much easier to follow if you've done the related reading. 
 
