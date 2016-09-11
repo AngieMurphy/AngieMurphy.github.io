@@ -24,8 +24,8 @@ My overall experience in the class this week was positive, despite the stress I 
 ## Tip of the Week
 So, this isn't a tip for development exactly, but there is an event coming up I'd like fellow game developers and aspiring game developers to know about! I attended Austin Game Dev Beer Night last month and it was pretty fun. If you are interested and 21+ I recommend it; it is a great way to connect to fellow game developers in the Austin community!
 
-https://www.facebook.com/events/1594397960856067/
+[Austin Game Dev Beer Night] (https://www.facebook.com/events/1594397960856067/)
 
 Another cool event that is coming up even sooner for game developers or those interested in VR is the September VR Austin Event sponsored by Oculus!
 
-https://www.facebook.com/events/278236499222639/
+[VR Austin] (https://www.facebook.com/events/278236499222639/)
