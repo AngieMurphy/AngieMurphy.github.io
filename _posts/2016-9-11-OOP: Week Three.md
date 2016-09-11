@@ -6,7 +6,7 @@ title: OOP Week Three - What a week!
 ## What did you do this past week?
 
 This past week was incredibly busy for me. After spending a nice labor day weekend back home, I came back with much to do (finishing the project). I ran into an issue when working on my project related to my compiler not working, and once I started running into those issues I immediately regretted not starting on the project two Mondays ago. Lesson learned though - the project got done but I won't wait that long on future projects again.
-In class, we explored pointers in C++. Pointers are things I think I understand one day and then return to the topic the next day and it all seems brand new and confusing. Definitely spending a lot of time practicing those in my spare time.
+In class, we explored pointers in C++. I think I understand pointers one day and then return to the topic the next day and it all seems brand new and confusing. Definitely spending a lot of time practicing those in my spare time.
 
 ## What's in your way?
 
