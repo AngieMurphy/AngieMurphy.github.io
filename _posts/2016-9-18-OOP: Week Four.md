@@ -10,11 +10,11 @@ Also in class we discussed more elements of the C++ language. We talked about li
 
 ## What's in your way?
 
-For the Netflix project, my partner and I have been wrapping work in other courses so that we can focus on the project a lot this week. While we have a decent start on the assignment, I worry that there are unforeseen issues that could pop up this week in trying to finish it.
+For the Netflix project, my partner and I have been wrapping up work in other courses so that we can focus on the project a lot this week. While we have a decent start on the assignment, I worry that there are unforeseen issues that could pop up this week in trying to finish it.
 
 ## What will you do next week?
 
-Currently running a fever, so I hope to heal up and be there for my partner and my classes! If all goes well, I'll finish both projects for both of my classes, practice with pointers, and stay focused in class, and rest some. 
+Currently running a fever, so I hope to heal up and be there for my partner and my classes! If all goes well, I'll finish both projects for both of my classes, practice with pointers, and rest some. 
 
 My overall experience in the course this week was great! It was a relatively calm week compared to the week prior, when I was hurrying to meet the requirements on the first assignment. I feel like my partner and I have a much better grasp on the requirements than I did during the first assignment.
 
