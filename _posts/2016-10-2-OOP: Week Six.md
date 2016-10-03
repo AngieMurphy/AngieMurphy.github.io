@@ -23,7 +23,7 @@ outside the scope of my task. This has been my biggest challenge as a programmer
 
 ## Tip of the Week
 Good luck studying for the exam! Even though I've never taken an exam for this class, I recommend making notecards for the terms and
-ideas you are unfamiliar with, and most importantly I recommend actually coding and taking notes on what your code does and whether
+ideas you are most uncomfortable with, and most importantly I recommend actually coding and taking notes on what your code does and whether
 or not it met your expectations. I think this is one of the best ways to learn, because you can then associate how code should work
 with how you originally thought it would work and ultimately have a deeper understanding of they 'why' something is how it is and isn't how it isn't. 
 Ha, I hope that makes sense. I plan on doing this with pointers and other concepts we reviewed in class. 
