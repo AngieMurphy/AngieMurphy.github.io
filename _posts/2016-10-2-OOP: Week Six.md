@@ -7,12 +7,14 @@ title: OOP Week Six
 This week in class we expanded on the idea of software contracts. 
 We did so by reviewing iterators, lambdas, the allof function, the range iterator function, defining operations for user defined types, 
 and the meaning of friendship. :) 
+Although my courses are demanding, I appreciate how it keeps me staying social
+with my classmates. Talking with other students about concepts we learn in class definitely takes away some of the stress. 
 I also stayed pretty busy in my Graphics course, wrapping up on an assignment, which took up the bulk of my time. 
 
 ## What's in your way?
-Staying focused. Despite not taking a full semester, I'm a bit overwhelmed by the work that needs to be accomplished this week. What we've learned in OOP the past two weeks will 
-need a lot of reviewing for me to feel fully prepared for my exam on Thursday. Although my courses are demanding, I appreciate how it keeps me staying social
-with my classmates. Talking with other students about concepts we learn in class definitely takes away some of the stress. 
+Staying focused. Despite not taking a full semester, I'm a bit overwhelmed by the work that needs to be accomplished by Friday.
+What we've learned in OOP the past two weeks will need a lot of reviewing for me to feel fully prepared for my exam on Thursday. 
+I'm struggling on a task at work that is also stressing me out! I switched from a 40 hr week this summer to a 10 hr and I feel like I'm moving so slowly! 
 
 ## What will you do next week?
 Study and get an early start on my next Graphics assignment! I also hope to make good progress on a task at work. I keep facing the challenge of deciding 
