@@ -5,7 +5,7 @@ title: OOP Week Seven
 
 ## What did you do this past week?
 This past week was tough! This week we discussed defining begin() and end() inside of Range, nested classes, and pointers declared with const.
-We also had an exam this week! There were two questions that I personally was disappointed in in how I answered them. I wish I had studied what went behind
+We also had an exam this week! There were two questions that I personally was disappointed in how I answered them. I wish I had studied what went behind
 those two questions more before this past Thursday. Exams really stress me out, and I tend to blank when I get in front them, although I think the mistakes I made
 on this last exam were preventable with maybe just two more hours of coding what we reviewed with iterators the past week.
 
