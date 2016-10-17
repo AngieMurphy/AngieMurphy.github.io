@@ -23,14 +23,16 @@ if they aren't that bad.
 ## What will you do next week?
 Finish up the Allocator project, and make sure that we meet all the specs. My partner and I on the Netflix assignment had a few
 oversights which affected our grade a bit. I also would like to begin studying for my Graphics exam which is the following week, and 
-stay on top of the topis we are reviewing in OOP.
+stay on top of the topics we are reviewing in OOP.
 I am also VERY excited about the coming tasks I am taking on at work. I will get to dive into learning about the Frostbite game engine
 and learning about how localization works in the game industry.
 
 ## Tip of the Week
-I learned this past week about 'provisioning profiles' in Apple app development. I learned about this when an IPad app for a side
+I learned this past week about 'provisioning profiles' in Apple app development. I learned about this when an iPad app for a side
 project I've contributed to was consistently crashing a week after installing it to the device. With some researching, I learned 
 that if you don't have a paid Apple Developer account, the app will just not open after about a week, the length of time they give
 you when you are issued a 'provisioning profile' at build time of your app. 
-Other than this project, I have never deployed anything to an iOS app, so this could be a totally normal, and expected thing that others
+Other than this project, I have never deployed anything to iOS so this could be a totally normal, and expected thing that others
 experience all of the time, but I didn't learn about this until a few days ago. So, if your app is crashing after a weeks time, this is could be why.
+
+Source on this issue: [Apple Forum](https://forums.developer.apple.com/thread/51527)
