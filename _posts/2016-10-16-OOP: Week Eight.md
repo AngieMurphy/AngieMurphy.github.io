@@ -16,7 +16,7 @@ despite starting later in the week.
 
 ## What's in your way?
 Honestly, it is the same as last week. I need to stay positive and not get too caught up in grades. I know as long as I try my
-best I will succeed in this course and my graphics course, I just get really anxious when I receive grades I'm not proud of, even 
+best and focus on learning I will succeed in this course and my graphics course, I just get really anxious when I receive grades I'm not proud of, even 
 if they aren't that bad.
 
 
