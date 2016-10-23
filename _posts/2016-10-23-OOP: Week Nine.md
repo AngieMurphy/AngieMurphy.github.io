@@ -21,7 +21,7 @@ to begin studying up. I need to do much better on our last exam than the first. 
 ## Tip of the Week
 Here's an article about a recent event that happened regarding a cyber attack taking over major websites. (I'm sure many of us have heard about it!)
 
-[The Pirates Who Stole Netflix] (https://www.bloomberg.com/view/articles/2016-10-23/the-pirates-who-stole-netflix)
+[The Pirates Who Stole Netflix](https://www.bloomberg.com/view/articles/2016-10-23/the-pirates-who-stole-netflix)
 
 I find it really interesting that this cyber attack was potentially in part created by exploiting the Internet of Things, recruiting smart devices which connect
 to the internet. 
