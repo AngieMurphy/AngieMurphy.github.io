@@ -5,11 +5,9 @@ title: OOP Week Nine
 
 ## What did you do this past week?
 This week was somewhat relaxing compared to others. I met with my partner for our Allocator project and
-we were able to finish the night before it was due. This was so nice! I would like to stay on top of my work like this more often. Next time I finish early though, 
-I'd like to have more of a Piazza prescence and help others out. 
-In class we built out a class for a vector. We had interesting discussions about ways to build a constructor, and how you can set default 
-values within headers if the user has decided to not define it. Vectors use allocation behind the scenes and we also wrote
-functions in class for how this allocator would work in the vector class.
+we were able to finish the night before it was due. This was so nice! I would like to stay on top of my work like this more often. Next time I finish early though, I'd like to have more of a Piazza presence and help others out. 
+
+In class we built out a class for a vector. We had interesting discussions about ways to build a constructor, and how you can set default values within headers if the user has decided to not define it. Vectors use allocation behind the scenes and we also wrotefunctions in class for how this allocator would work in the vector class.
 
 ## What's in your way?
 While last week was slow compared to most, I have an intense two weeks approaching. I have a graphics exam this week, and an oop project due next week,
@@ -22,6 +20,8 @@ to begin studying up. I realized recently that our final exam is after I graduat
 
 ## Tip of the Week
 Here's an article about a recent event that happened regarding a cyber attack taking over major websites. (I'm sure many of us have heard about it!)
+
 [The Pirates Who Stole Netflix] (https://www.bloomberg.com/view/articles/2016-10-23/the-pirates-who-stole-netflix)
+
 I find it really interesting that this cyber attack was potentially in part created by exploiting the Internet of Things, recruiting smart devices which connect
 to the internet. 
