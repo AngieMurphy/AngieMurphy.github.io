@@ -10,7 +10,7 @@ We had a really simple week in OOP. Monday was the only day of normal class, whe
 on Wednesday and it is bringing some interesting challenges to the table. From afar, creating the Darwin game seems straightforward,
 create a few classes, defining their functions, and it all should work, right? There is a catch though - no getters and setters.
 This is key to good object oriented design, and yet, it is still quite challenging to build classes which will interact with each
-other and (ideally) no nothing about each other. I'm enjoying the learning experience though, honestly. I can code, but I am extremely
+other and (ideally) no nothing about each other. I'm enjoying the learning experience though, honestly. I like to code, but I am extremely
 interested in learning about good design.
 
 On Wednesday we had speakers from Pariveda come in to discuss their company and the software develoment cycle.
