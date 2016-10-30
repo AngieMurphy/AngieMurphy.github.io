@@ -24,7 +24,7 @@ I don't make the same mistakes I did on the last exam.
 
 ## What will you do next week?
 Finishing up the OOP project, working hard on my Graphics project, writing that essay, and if there is any free time, I'd like
-to dedicate an extra 3 hours or so this week and the weeks following to studying OOP. My performance on the last exam was kind of lame, honestly, which I anticipated after
+to dedicate an extra 3 hours or so this week and the weeks following to studying OOP. My performance on the last exam was kind of lame, which I anticipated after
 taking it. The exam was fair and I expect the next one to be also, so I need to make sure I come better equipped for our last test. 
 
 
