@@ -21,11 +21,13 @@ This week is going to be rough and with little sleep. I have my Life assignment 
 Tuesday but I'll likely take an extra day. 
 
 ## What will you do next week?
-Try to stay calm as I spend most of my time in the lab. I need to also get a solid understanding on the use of the Cell class in our
+Try to stay calm as I spend most of my time in the lab, and just get as much
+work done as possible. I need to also get a solid understanding on the use of the Cell class in our
 Life assignment. 
 
 ## Tip of the Week
 Start studying for our final this weekend! It will be challenging after wrapping up an assignment, but we won't regret it. 
 I will probably start reviewing the different types of casts have learned class. Here is a link (yes, top result in Google) to start
 reviewing them!
+
 [Casts] (https://www.tutorialspoint.com/cplusplus/cpp_casting_operators.htm)
