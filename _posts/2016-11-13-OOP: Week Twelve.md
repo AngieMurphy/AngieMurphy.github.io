@@ -30,4 +30,4 @@ Start studying for our final this weekend! It will be challenging after wrapping
 I will probably start reviewing the different types of casts have learned in class. Here is a link (yes, top result in Google) to start
 reviewing them!
 
-[Casts] (https://www.tutorialspoint.com/cplusplus/cpp_casting_operators.htm)
+[Casts](https://www.tutorialspoint.com/cplusplus/cpp_casting_operators.htm)
