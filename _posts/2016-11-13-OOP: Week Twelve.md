@@ -4,7 +4,7 @@ title: OOP Week Twelve
 ---
 
 ## What did you do this past week?
-This week, our class discussed inheritance in C++ and the usefullness of the keyword 'virtual'. I learned an importance lesson this week
+This week, our class discussed inheritance in C++ and the usefullness of the keyword 'virtual'. I learned an important lesson this week
 about the behavior of a child class. When the default constructor of a child class is called, so is its parent's. This behavior is explained
 due to refinement overriding. However, copy assignment does not exhibit refinement overriding, rather replacement. So when you define
 the copy assignment for a child class, it's parent's copy assignment does not get invoked. 
